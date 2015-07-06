@@ -1,6 +1,9 @@
 title: 'My Editor: Atom'
 date: 2015-07-06 11:04:10
 tags:
+- atom
+- editors
+- reviews
 ---
 <center><img src="/images/atom.png" style="border:0px"/></center>
 

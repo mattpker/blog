@@ -1,6 +1,7 @@
 title: My Blog
 date: 2015-07-06 10:17:13
 tags:
+- hexo
 ---
 I am starting a blog based on what I am currently doing in development and technology. I plan on having a new post at least every week. Head on over to the [about](/about) page for more information about me.
 
