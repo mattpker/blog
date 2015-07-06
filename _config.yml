@@ -64,6 +64,12 @@ pagination_dir: page
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
 theme: next
+plugins:
+- hexo-generator-robotstxt
+
+robotstxt:
+  useragent: "*"
+  sitemap: /sitemap.xml
 
 social:
   GitHub: https://github.com/mattpker
