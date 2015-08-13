@@ -71,7 +71,7 @@ plugins:
 
 robotstxt:
   useragent: "*"
-  sitemap: /sitemap.xml
+  sitemap: http://mattpker.com/sitemap.xml
 
 social:
   GitHub: https://github.com/mattpker
