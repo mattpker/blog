@@ -10,6 +10,8 @@ Since your NodeJS service is an always running process, and you have things like
 
 While developing these tasks, I realized that if and when I cluster these services, I will run into an issue where multiple tasks will run at the same time, and this was not a good thing. I searched for a while for a solution but I could not find anything, so I decided to write it myself.
 
+<!-- more -->
+
 ## is-master
 
 https://www.npmjs.com/package/is-master
