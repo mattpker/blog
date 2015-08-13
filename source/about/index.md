@@ -8,4 +8,8 @@ I am currently a software engineer for GoDaddy.com. I also have a background in 
 
 You can contact me via my twitter [@mattpker](https://twitter.com/mattpker).
 
+GitHub: https://github.com/mattpker
+npm: https://www.npmjs.com/~mattpker
+LinkedIn: https://www.linkedin.com/in/mattpker
+
 ![My Family](/images/family.jpg "My Family")

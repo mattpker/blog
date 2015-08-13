@@ -47,7 +47,8 @@ scheme: Mist
 #  - hide    expand only when click on the sidebar toggle icon.
 #sidebar: post
 #sidebar: always
-sidebar: hide
+#sidebar: hide
+sidebar: remove
 
 
 # Automatically scroll page to section which is under <!-- more --> mark.
