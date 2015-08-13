@@ -2,13 +2,13 @@
 {% import '_macro/post-collapse.swig' as post_template %}
 {% import '_macro/sidebar.swig' as sidebar_template %}
 
-{% block title %} {{ __('title.archive') }} // {{ config.title }} {% endblock %}
+{% block title %} {{ __('title.archive') }} | {{ config.title }} {% endblock %}
 
 {% block page_class %} page-archive {% endblock %}
 
 {% block content %}
 
-  <div id="posts" class="posts-collapse">
+  <section id="posts" class="posts-collapse">
     <span class="archive-move-on"></span>
 
     <span class="archive-page-counter">
@@ -43,7 +43,7 @@
 
     {% endfor %}
 
-  </div>
+  </section>
 
   {% include '_partials/pagination.swig' %}
 
